@@ -1,0 +1,54 @@
+{
+  "name": "github-stats-solo",
+  "version": "1.0.0",
+  "description": "Solo Leveling-inspired GitHub statistics dashboard",
+  "author": "Shinei Nouzen",
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "statistics",
+    "dashboard",
+    "solo-leveling",
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/github-stats-solo.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "type-check": "tsc --noEmit",
+    "export": "next export"
+  },
+  "dependencies": {
+    "framer-motion": "^11.0.8",
+    "lucide-react": "^0.356.0",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "recharts": "^2.12.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.0.2",
+    "@tailwindcss/postcss": "^0.0.0-insiders.db9e765",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
