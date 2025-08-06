@@ -13,8 +13,8 @@ const Footer = () => {
       title: 'Project',
       items: [
         { name: 'GitHub Repository', href: siteConfig.github, external: true },
-        { name: 'Documentation', href: '#', external: false },
-        { name: 'API Reference', href: '#', external: false },
+        { name: 'Documentation', href: 'https://github.com/Shineii86/AniLeveling', external: false },
+        { name: 'API Reference', href: 'https://github.com/Shineii86/AniLeveling', external: false },
       ],
     },
     {
@@ -28,9 +28,9 @@ const Footer = () => {
     {
       title: 'Connect',
       items: [
-        { name: 'GitHub', href: 'https://github.com', external: true },
-        { name: 'Twitter', href: 'https://twitter.com', external: true },
-        { name: 'LinkedIn', href: 'https://linkedin.com', external: true },
+        { name: 'GitHub', href: 'https://github.com/Shineii86', external: true },
+        { name: 'Twitter', href: 'https://twitter.com/Shineii86', external: true },
+        { name: 'Telegram', href: 'https://telegram.me/Shineii86', external: true },
       ],
     },
   ];
