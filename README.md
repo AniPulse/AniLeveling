@@ -78,7 +78,7 @@ yarn install
 Create a `.env.local` file in the root directory:
 
 ```env
-GITHUB_TOKEN=your_github_personal_access_token_here
+GITHUB_TOKEN=Your_github_personal_access_token_here
 ```
 
 **How to get a GitHub token:**
