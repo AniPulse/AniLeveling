@@ -1,10 +1,14 @@
-# ⚡ GitHub Shadow Stats
+<div align="center"><a href="https://shineii86.github.io/AniList"><img src="https://raw.githubusercontent.com/Shineii86/AniList/refs/heads/main/assets/images/LOGOv1.png" LOGO" width="200" height="200"/></a>
+  
+  # [AniLeveling](https://github.com/Shineii86/AniLeveling)
 
 A **Solo Leveling-inspired** GitHub statistics dashboard built with Next.js, Tailwind CSS, and the GitHub API. Visualize your coding journey with dark, animated UI elements and comprehensive analytics.
 
 ![Repo Size](https://img.shields.io/github/repo-size/Shineii86/AniLeveling?style=for-the-badge) [![GitHub Stars](https://img.shields.io/github/stars/Shineii86/AniLeveling?style=for-the-badge)](https://github.com/Shineii86/AniLeveling/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/Shineii86/AniLeveling?style=for-the-badge)](https://github.com/Shineii86/AniLeveling/fork)
 
 ![GitHub Shadow Stats](https://img.shields.io/badge/version-1.0.0-purple?style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-13+-black?style=for-the-badge&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3+-blue?style=for-the-badge&logo=tailwindcss)
+
+</div>
 
 ## ✨ Features
 
@@ -101,7 +105,7 @@ npm run start
 ## 📁 Project Structure
 
 ```
-github-stats-solo/
+AniLeveling/
 ├── src/
 │   ├── components/
 │   │   ├── charts/          # Chart components (Pie, Bar)
