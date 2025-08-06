@@ -233,6 +233,6 @@ If you have any questions or need help, please:
 
   <sup><b>Copyright © 2025 <a href="https://telegram.me/Shineii86">Shinei Nouzen</a> All Rights Reserved</b></sup>
 
-![Last Commit](https://img.shields.io/github/last-commit/Shineii86/AniList?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Shineii86/AniLeveling?style=for-the-badge)
 
 </div>
