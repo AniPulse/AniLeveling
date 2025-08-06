@@ -1,12 +1,16 @@
-<div align="center"><a href="https://shineii86.github.io/AniList"><img src="https://raw.githubusercontent.com/Shineii86/AniList/refs/heads/main/assets/images/LOGOv1.png" LOGO" width="200" height="200"/></a>
-  
-  # [AniLeveling](https://github.com/Shineii86/AniLeveling)
+<div align="center"><img src="https://raw.githubusercontent.com/Shineii86/AniLeveling/refs/heads/main/assets/images/LOGOv1.png" width="1000" height="1000"/>
+
+# [𝐀𝐧𝐢𝐋𝐞𝐯𝐞𝐥𝐢𝐧𝐠](https://github.com/Shineii86/AniLeveling)
 
 A **Solo Leveling-inspired** GitHub statistics dashboard built with Next.js, Tailwind CSS, and the GitHub API. Visualize your coding journey with dark, animated UI elements and comprehensive analytics.
 
 ![Repo Size](https://img.shields.io/github/repo-size/Shineii86/AniLeveling?style=for-the-badge) [![GitHub Stars](https://img.shields.io/github/stars/Shineii86/AniLeveling?style=for-the-badge)](https://github.com/Shineii86/AniLeveling/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/Shineii86/AniLeveling?style=for-the-badge)](https://github.com/Shineii86/AniLeveling/fork)
 
 ![GitHub Shadow Stats](https://img.shields.io/badge/version-1.0.0-purple?style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-13+-black?style=for-the-badge&logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3+-blue?style=for-the-badge&logo=tailwindcss)
+
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv04.png" alt="Banner">
+</a>
 
 </div>
 
@@ -39,6 +43,10 @@ Visit the live application: [GitHub Shadow Stats](https://anileveling.vercel.app
 - **API**: GitHub REST API + GraphQL API
 - **Deployment**: Vercel
 
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv2.png" alt="Banner">
+</a>
+
 ## 📦 Installation
 
 ### Prerequisites
@@ -61,6 +69,9 @@ npm install
 # or
 yarn install
 ```
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv01.png" alt="Banner">
+</a>
 
 ### 3. Set up environment variables
 
@@ -86,6 +97,11 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv4.png" alt="Banner">
+</a>
+
+
 ## 🌐 Deployment
 
 ### Deploy to Vercel (Recommended)
@@ -101,6 +117,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 npm run build
 npm run start
 ```
+
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv3.png" alt="Banner">
+</a>
+
 
 ## 📁 Project Structure
 
@@ -144,6 +165,10 @@ colors: {
 }
 ```
 
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv02.png" alt="Banner">
+</a>
+
 ### API Rate Limits
 
 The GitHub API has rate limits:
@@ -165,6 +190,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<a href="https://github.com/Shineii86/AniLeveling">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv1.png" alt="Banner">
+</a>
 
 ## 🙏 Acknowledgments
 
@@ -192,7 +221,7 @@ If you have any questions or need help, please:
 <div align="center">
 
 <a href="https://github.com/Shineii86/AniLeveling">
-<img src="https://github.com/Shineii86/AniPay/blob/main/Source/Banner6.png" alt="Banner">
+<img src="https://github.com/Shineii86/AniLeveling/blob/main/assets/images/BNv03.png" alt="Banner">
 </a>
   
   *For inquiries or collaborations:*
