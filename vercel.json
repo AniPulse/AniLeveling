@@ -53,7 +53,7 @@
   "redirects": [
     {
       "source": "/github",
-      "destination": "https://github.com/yourusername/github-stats-solo",
+      "destination": "https://github.com/Shineii86/AniLeveling",
       "permanent": false
     }
   ]
